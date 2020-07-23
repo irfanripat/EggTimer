@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Egg Timer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="back_button">Back Button</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="petunjuk_1">1. Didihkan air terlebih dahulu</string>
+    <string name="petunjuk_2">2. Telur dimasukkan setelah air mendidih</string>
+    <string name="petunjuk_3">3. Hidupkan timer segera setelah telur dimasukkan</string>
+    <string name="petunjuk_4">4. Angkat telur setelah timer berakhir</string>
+    <string name="i">i</string>
+    <string name="mulai">MULAI</string>
+    <string name="kategori">KATEGORI</string>
+    <string name="tombol_mulai">Tombol Mulai</string>
+    <string name="tombol_informasi">Tombol Informasi</string>
 </resources>
